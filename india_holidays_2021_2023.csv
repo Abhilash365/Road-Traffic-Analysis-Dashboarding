@@ -1,0 +1,354 @@
+Date,Type
+2021-01-02,Weekend
+2021-01-03,Weekend
+2021-01-09,Weekend
+2021-01-10,Weekend
+2021-01-16,Weekend
+2021-01-17,Weekend
+2021-01-23,Weekend
+2021-01-24,Weekend
+2021-01-26,National Holiday
+2021-01-30,Weekend
+2021-01-31,Weekend
+2021-02-06,Weekend
+2021-02-07,Weekend
+2021-02-13,Weekend
+2021-02-14,Weekend
+2021-02-20,Weekend
+2021-02-21,Weekend
+2021-02-27,Weekend
+2021-02-28,Weekend
+2021-03-06,Weekend
+2021-03-07,Weekend
+2021-03-13,Weekend
+2021-03-14,Weekend
+2021-03-20,Weekend
+2021-03-21,Weekend
+2021-03-27,Weekend
+2021-03-28,Weekend
+2021-03-29,National Holiday
+2021-04-02,National Holiday
+2021-04-03,Weekend
+2021-04-04,Weekend
+2021-04-10,Weekend
+2021-04-11,Weekend
+2021-04-17,Weekend
+2021-04-18,Weekend
+2021-04-21,National Holiday
+2021-04-24,Weekend
+2021-04-25,Weekend
+2021-05-01,Weekend
+2021-05-02,Weekend
+2021-05-08,Weekend
+2021-05-09,Weekend
+2021-05-14,National Holiday
+2021-05-15,Weekend
+2021-05-16,Weekend
+2021-05-22,Weekend
+2021-05-23,Weekend
+2021-05-26,National Holiday
+2021-05-29,Weekend
+2021-05-30,Weekend
+2021-06-05,Weekend
+2021-06-06,Weekend
+2021-06-12,Weekend
+2021-06-13,Weekend
+2021-06-19,Weekend
+2021-06-20,Weekend
+2021-06-26,Weekend
+2021-06-27,Weekend
+2021-07-03,Weekend
+2021-07-04,Weekend
+2021-07-10,Weekend
+2021-07-11,Weekend
+2021-07-17,Weekend
+2021-07-18,Weekend
+2021-07-21,National Holiday
+2021-07-24,Weekend
+2021-07-25,Weekend
+2021-07-31,Weekend
+2021-08-01,Weekend
+2021-08-07,Weekend
+2021-08-08,Weekend
+2021-08-14,Weekend
+2021-08-15,Weekend
+2021-08-19,National Holiday
+2021-08-21,Weekend
+2021-08-22,Weekend
+2021-08-28,Weekend
+2021-08-29,Weekend
+2021-08-30,National Holiday
+2021-09-04,Weekend
+2021-09-05,Weekend
+2021-09-11,Weekend
+2021-09-12,Weekend
+2021-09-18,Weekend
+2021-09-19,Weekend
+2021-09-25,Weekend
+2021-09-26,Weekend
+2021-10-02,Weekend
+2021-10-03,Weekend
+2021-10-09,Weekend
+2021-10-10,Weekend
+2021-10-15,National Holiday
+2021-10-16,Weekend
+2021-10-17,Weekend
+2021-10-19,National Holiday
+2021-10-23,Weekend
+2021-10-24,Weekend
+2021-10-30,Weekend
+2021-10-31,Weekend
+2021-11-04,National Holiday
+2021-11-06,Weekend
+2021-11-07,Weekend
+2021-11-13,Weekend
+2021-11-14,Weekend
+2021-11-19,National Holiday
+2021-11-20,Weekend
+2021-11-21,Weekend
+2021-11-27,Weekend
+2021-11-28,Weekend
+2021-12-04,Weekend
+2021-12-05,Weekend
+2021-12-11,Weekend
+2021-12-12,Weekend
+2021-12-18,Weekend
+2021-12-19,Weekend
+2021-12-25,Weekend
+2021-12-26,Weekend
+2022-01-01,Weekend
+2022-01-02,Weekend
+2022-01-08,Weekend
+2022-01-09,Weekend
+2022-01-15,Weekend
+2022-01-16,Weekend
+2022-01-22,Weekend
+2022-01-23,Weekend
+2022-01-26,National Holiday
+2022-01-29,Weekend
+2022-01-30,Weekend
+2022-02-05,Weekend
+2022-02-06,Weekend
+2022-02-12,Weekend
+2022-02-13,Weekend
+2022-02-19,Weekend
+2022-02-20,Weekend
+2022-02-26,Weekend
+2022-02-27,Weekend
+2022-03-01,National Holiday
+2022-03-05,Weekend
+2022-03-06,Weekend
+2022-03-12,Weekend
+2022-03-13,Weekend
+2022-03-18,National Holiday
+2022-03-19,Weekend
+2022-03-20,Weekend
+2022-03-26,Weekend
+2022-03-27,Weekend
+2022-04-02,Weekend
+2022-04-03,Weekend
+2022-04-09,Weekend
+2022-04-10,Weekend
+2022-04-14,National Holiday
+2022-04-15,National Holiday
+2022-04-16,Weekend
+2022-04-17,Weekend
+2022-04-23,Weekend
+2022-04-24,Weekend
+2022-04-30,Weekend
+2022-05-01,Weekend
+2022-05-03,National Holiday
+2022-05-07,Weekend
+2022-05-08,Weekend
+2022-05-14,Weekend
+2022-05-15,Weekend
+2022-05-16,National Holiday
+2022-05-21,Weekend
+2022-05-22,Weekend
+2022-05-28,Weekend
+2022-05-29,Weekend
+2022-06-04,Weekend
+2022-06-05,Weekend
+2022-06-11,Weekend
+2022-06-12,Weekend
+2022-06-18,Weekend
+2022-06-19,Weekend
+2022-06-25,Weekend
+2022-06-26,Weekend
+2022-07-02,Weekend
+2022-07-03,Weekend
+2022-07-09,Weekend
+2022-07-10,Weekend
+2022-07-16,Weekend
+2022-07-17,Weekend
+2022-07-23,Weekend
+2022-07-24,Weekend
+2022-07-30,Weekend
+2022-07-31,Weekend
+2022-08-06,Weekend
+2022-08-07,Weekend
+2022-08-13,Weekend
+2022-08-14,Weekend
+2022-08-15,National Holiday
+2022-08-19,National Holiday
+2022-08-20,Weekend
+2022-08-21,Weekend
+2022-08-27,Weekend
+2022-08-28,Weekend
+2022-09-03,Weekend
+2022-09-04,Weekend
+2022-09-10,Weekend
+2022-09-11,Weekend
+2022-09-17,Weekend
+2022-09-18,Weekend
+2022-09-24,Weekend
+2022-09-25,Weekend
+2022-10-01,Weekend
+2022-10-02,Weekend
+2022-10-05,National Holiday
+2022-10-08,Weekend
+2022-10-09,Weekend
+2022-10-15,Weekend
+2022-10-16,Weekend
+2022-10-22,Weekend
+2022-10-23,Weekend
+2022-10-24,National Holiday
+2022-10-29,Weekend
+2022-10-30,Weekend
+2022-11-05,Weekend
+2022-11-06,Weekend
+2022-11-08,National Holiday
+2022-11-12,Weekend
+2022-11-13,Weekend
+2022-11-19,Weekend
+2022-11-20,Weekend
+2022-11-26,Weekend
+2022-11-27,Weekend
+2022-12-03,Weekend
+2022-12-04,Weekend
+2022-12-10,Weekend
+2022-12-11,Weekend
+2022-12-17,Weekend
+2022-12-18,Weekend
+2022-12-24,Weekend
+2022-12-25,Weekend
+2022-12-31,Weekend
+2023-01-01,Weekend
+2023-01-07,Weekend
+2023-01-08,Weekend
+2023-01-14,Weekend
+2023-01-15,Weekend
+2023-01-21,Weekend
+2023-01-22,Weekend
+2023-01-26,National Holiday
+2023-01-28,Weekend
+2023-01-29,Weekend
+2023-02-04,Weekend
+2023-02-05,Weekend
+2023-02-11,Weekend
+2023-02-12,Weekend
+2023-02-18,Weekend
+2023-02-19,Weekend
+2023-02-25,Weekend
+2023-02-26,Weekend
+2023-03-04,Weekend
+2023-03-05,Weekend
+2023-03-08,National Holiday
+2023-03-11,Weekend
+2023-03-12,Weekend
+2023-03-18,Weekend
+2023-03-19,Weekend
+2023-03-25,Weekend
+2023-03-26,Weekend
+2023-03-30,National Holiday
+2023-04-01,Weekend
+2023-04-02,Weekend
+2023-04-04,National Holiday
+2023-04-07,National Holiday
+2023-04-08,Weekend
+2023-04-09,Weekend
+2023-04-15,Weekend
+2023-04-16,Weekend
+2023-04-22,Weekend
+2023-04-23,Weekend
+2023-04-29,Weekend
+2023-04-30,Weekend
+2023-05-05,National Holiday
+2023-05-06,Weekend
+2023-05-07,Weekend
+2023-05-13,Weekend
+2023-05-14,Weekend
+2023-05-20,Weekend
+2023-05-21,Weekend
+2023-05-27,Weekend
+2023-05-28,Weekend
+2023-06-03,Weekend
+2023-06-04,Weekend
+2023-06-10,Weekend
+2023-06-11,Weekend
+2023-06-17,Weekend
+2023-06-18,Weekend
+2023-06-24,Weekend
+2023-06-25,Weekend
+2023-06-29,National Holiday
+2023-07-01,Weekend
+2023-07-02,Weekend
+2023-07-08,Weekend
+2023-07-09,Weekend
+2023-07-15,Weekend
+2023-07-16,Weekend
+2023-07-22,Weekend
+2023-07-23,Weekend
+2023-07-29,Weekend
+2023-07-30,Weekend
+2023-08-05,Weekend
+2023-08-06,Weekend
+2023-08-12,Weekend
+2023-08-13,Weekend
+2023-08-15,National Holiday
+2023-08-19,Weekend
+2023-08-20,Weekend
+2023-08-26,Weekend
+2023-08-27,Weekend
+2023-09-02,Weekend
+2023-09-03,Weekend
+2023-09-07,National Holiday
+2023-09-09,Weekend
+2023-09-10,Weekend
+2023-09-16,Weekend
+2023-09-17,Weekend
+2023-09-23,Weekend
+2023-09-24,Weekend
+2023-09-28,National Holiday
+2023-09-30,Weekend
+2023-10-01,Weekend
+2023-10-02,National Holiday
+2023-10-07,Weekend
+2023-10-08,Weekend
+2023-10-14,Weekend
+2023-10-15,Weekend
+2023-10-21,Weekend
+2023-10-22,Weekend
+2023-10-24,National Holiday
+2023-10-28,Weekend
+2023-10-29,Weekend
+2023-11-04,Weekend
+2023-11-05,Weekend
+2023-11-11,Weekend
+2023-11-12,Weekend
+2023-11-18,Weekend
+2023-11-19,Weekend
+2023-11-25,Weekend
+2023-11-26,Weekend
+2023-11-27,National Holiday
+2023-12-02,Weekend
+2023-12-03,Weekend
+2023-12-09,Weekend
+2023-12-10,Weekend
+2023-12-16,Weekend
+2023-12-17,Weekend
+2023-12-23,Weekend
+2023-12-24,Weekend
+2023-12-25,National Holiday
+2023-12-30,Weekend
+2023-12-31,Weekend
