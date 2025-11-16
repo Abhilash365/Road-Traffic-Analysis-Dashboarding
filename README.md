@@ -72,9 +72,5 @@ The goal is to support **policy makers, traffic authorities, and emergency respo
 
 ---
   
----
 
-## 👨‍💻 Author  
-Developed by **[Mangipudi Vamsi Praneeth]** 🚀  
-- LinkedIn: [Vamsi Praneeth](https://www.linkedin.com/in/vamsi-praneeth-92458a259/) 
-- 📧 vamsipraneeth2004@gmail.com
+
